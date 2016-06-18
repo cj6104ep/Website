@@ -16,6 +16,7 @@ echo '<p>You are logged in as '.
     exit;
     }
 
+
     @ $del_me = $_POST['del_me'];
 
     if(isset($del_me))
