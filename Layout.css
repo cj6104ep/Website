@@ -1,0 +1,106 @@
+body {
+	margin:0;
+	padding:0;
+}
+#Holder {
+	width: 980px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 21px;
+	margin-bottom: 21px;
+}
+#Header {
+	height: 120px;
+	background-image: url(Images/Logo.png);
+	background-repeat: no-repeat;
+	margin-bottom: 11px;
+}
+#NavBar {
+	height: 60px;
+	background-color: orange;
+}
+#Content {
+	height:auto;
+	clear: both;
+	overflow: auto;
+}
+#PageHeading{
+	height: auto;
+	padding: 11px;
+}
+#ContentLeft{
+	width: 280px;
+	padding-top: 11px;
+	padding-left: 11px;
+}
+#ContentRight{
+	width: 680px;
+	float: right;
+}
+#Footer {
+	height: 100px;
+}
+h1{
+	margin:0;
+	font-family: Arial, sans-serif;
+	color: black;
+	font-weight: lighter;
+}
+h2 {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	font-weight: lighter;
+	color: dimgray;
+}
+h6 {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	font-weight: lighter;
+	font-size: 14px;
+	color: darkgrey;
+}
+.Style_text_field {
+	border: 1px solid gray;
+	border-radius: 6px;
+	width: 200px;
+	height: 35px;
+}
+.StyleTxtField {
+	border: 1px solid #F3AC47;
+	border-radius: 6px;
+	width: 200px;
+	height: 35px;
+}
+.mainfooter{
+
+	width: 100%;
+	float: left;
+	color: #FFF;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: orange;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.Footer{
+	width: 980px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 21px;
+	margin-bottom: 21px;
+}
+div.social {
+	height: 150px;
+	background-color: orange;
+	float: right;
+	margin-top: 20px;
+	margin-right: 200px;
+}
+.mainfooter p {
+	width: 92%;
+	margin: 2% auto;
+	color: #FFF;
+}
